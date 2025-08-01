@@ -1,0 +1,2 @@
+# Alignment_problem_1_
+Producing sequence alignments and assessing the number, and type of variant(s) is a key bioinformatic problem. It allows us to focus on the underlying biology, namely how these variants affect things like gene function or evolutionary history. To tackle these more fundamental biological questions, we need to get to grips with how different the sequences are. Are variants synonymous or non-synonymous? Do indels result in a frameshift ultimately leading to a premature stop codon?
